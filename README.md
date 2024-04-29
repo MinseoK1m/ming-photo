@@ -5,9 +5,11 @@
 
   * 2023.11.19-2023.12.10
 
-* 계획
+* 수행 계획
   ![그림1](https://github.com/MinseoK1m/ming-photo/assets/138808284/1b9112c1-3964-4dd6-a585-e9b2e56fe2f0)
 
+* 기능구현 세부계획
+  ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/c59e01f5-290f-4c09-9129-6edf6ab6a04f)
 
 * 메뉴구성도
   ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/da15c149-6e6c-43bd-9d00-e515cd8b16da)
