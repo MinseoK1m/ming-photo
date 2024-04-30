@@ -16,14 +16,10 @@
 
 * GUI 디자인
   * QT Designer를 사용하여 UI디자인 후 python코드로 변환 후 적용
-   
-     ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/94bcd50b-ce17-4340-a8f2-d39ce79d1219)
-     ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/42b86298-bddd-4cd4-9a24-b83607023d2e)
-     
-     ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/a420be92-727d-4e2e-a16b-9dd67e06ed8b)
-     ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/c7602cc1-40a4-45f2-8c6b-a84ba3ed5db6)
-     
-     ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/63be7030-cb51-41d4-8860-5a3ece9cee03)
+     ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/ced53a50-0243-4636-9760-7ebdd494535b)
+      ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/b15bbe67-5978-41a8-8d0e-a023d5a01a13)
+    ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/97a533b0-fcf9-43c9-bc9b-1f25d16ec096)
+    
 
 * 구현 기능
   * 카메라
