@@ -99,7 +99,7 @@
        ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/b8fbe376-b9d5-4802-ae94-22001f07c945)
 
 
-* 마무리하며
+# 마무리하며
 
   이 프로젝트는 [영상처리프로그래밍] 기말 프로젝트로 제작한 것이다.
   
