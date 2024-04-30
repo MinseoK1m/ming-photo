@@ -15,7 +15,7 @@
 
 
 * GUI 디자인
-  * QT Designer, PYQT5를 사용하여 디자인 후 코드 적용
+  * QT Designer를 사용하여 UI디자인 후 python코드로 변환 후 적용
    
      ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/94bcd50b-ce17-4340-a8f2-d39ce79d1219)
      ![image](https://github.com/MinseoK1m/ming-photo/assets/138808284/42b86298-bddd-4cd4-9a24-b83607023d2e)
